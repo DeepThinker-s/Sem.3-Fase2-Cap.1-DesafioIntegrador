@@ -40,7 +40,7 @@ risco com TF-IDF e aprendizado supervisionado.
 ## Continuidade com a Fase 1
 
 - Nome oficial: **CardioAI**.
-- Grupo preservado: **Grupo 28**, com os três integrantes e professores já
+- Grupo preservado: **Grupo 8**, com os três integrantes e professores já
   registrados no README.
 - A Fase 1 permanece como fonte de proveniência e contexto; esta fase não
   substituirá os datasets anteriores nem afirmará que relatos sintéticos são
