@@ -41,6 +41,12 @@ validação automatizada e análise explícita de limitações. Ele não produz
 diagnóstico médico, não substitui profissionais de saúde e não deve orientar
 decisões clínicas.
 
+## 🔗 Repositório oficial e links públicos
+
+- Fase 2: [repositório oficial](https://github.com/DeepThinker-s/Sem.3-Fase2-Cap.1-DesafioIntegrador)
+- Fase 1: [atividade anterior](https://github.com/DeepThinker-s/Sem.3-Cap.1-CardioAI)
+- Vídeo de demonstração no YouTube: **pendente de gravação e publicação como não listado**
+
 ## 📦 Entregáveis implementados
 
 - 10 relatos completos em `document/other/frases_sintomas.txt`;
@@ -169,12 +175,6 @@ reidentificação e de atalhos demográficos, mas impede medir disparidades entr
 esses grupos. A análise se limita ao equilíbrio entre classes de risco,
 diversidade linguística, cobertura de sintomas e falsos negativos. Consulte
 `document/other/etica_e_vieses.md` para a justificativa completa.
-
-## 🔗 Repositório oficial e links públicos
-
-- Fase 2: [repositório oficial](https://github.com/DeepThinker-s/Sem.3-Fase2-Cap.1-DesafioIntegrador)
-- Fase 1: [atividade anterior](https://github.com/DeepThinker-s/Sem.3-Cap.1-CardioAI)
-- Vídeo de demonstração no YouTube: **pendente de gravação e publicação como não listado**
 
 ## 🗃 Histórico de lançamentos
 
