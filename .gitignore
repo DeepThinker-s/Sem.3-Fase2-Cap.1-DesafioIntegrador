@@ -1,0 +1,27 @@
+# Ambientes e segredos
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Python e notebooks
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores, sistema e resultados locais
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+outputs/
+
+# Materiais internos não publicáveis. O plano é a única exceção temporária.
+Referências/*
+!Referências/PLANO_APROVACAO.md

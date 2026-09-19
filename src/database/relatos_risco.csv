@@ -1,0 +1,61 @@
+frase,situacao
+"Sinto pressão forte no peito e falta de ar mesmo estando sentado",alto_risco
+"A dor no peito começou de repente e está irradiando para o braço esquerdo",alto_risco
+"Meu coração está disparado e quase desmaiei ao levantar",alto_risco
+"Estou com dor intensa no peito acompanhada de suor frio e enjoo",alto_risco
+"Acordei sem conseguir respirar e só melhoro quando fico sentado",alto_risco
+"Tenho falta de ar em repouso e minhas pernas estão muito inchadas",alto_risco
+"Desmaiei depois de sentir o coração bater de forma irregular",alto_risco
+"Sinto um aperto no tórax sempre que caminho poucos metros",alto_risco
+"A dor no peito não passa mesmo depois de descansar",alto_risco
+"Estou ofegante parado e com sensação de desfalecimento",alto_risco
+"Meu peito começou a doer durante a madrugada e estou suando frio",alto_risco
+"Senti palpitação intensa seguida de perda de consciência",alto_risco
+"A pressão no peito piora ao subir escadas e me obriga a parar",alto_risco
+"Estou com falta de ar súbita e dor que vai para o braço",alto_risco
+"Meu ritmo cardíaco está descompassado e minha visão escureceu",alto_risco
+"Sinto dor no centro do peito junto com náusea e fraqueza intensa",alto_risco
+"Não consigo deitar porque fico sem ar e começo a tossir",alto_risco
+"Minhas pernas incharam e agora fico ofegante mesmo sem esforço",alto_risco
+"Tive um desmaio inesperado durante uma caminhada leve",alto_risco
+"O coração acelera de repente e sinto que vou apagar",alto_risco
+"Há uma pressão muito forte no tórax que começou em repouso",alto_risco
+"Sinto falta de ar progressiva e não consigo completar frases",alto_risco
+"A dor no peito veio com palidez e transpiração fria",alto_risco
+"Tenho aperto no peito ao esforço e a dor demora para melhorar",alto_risco
+"Acordei com palpitações irregulares e tontura muito forte",alto_risco
+"Estou com dor torácica contínua e dificuldade para respirar",alto_risco
+"Quase perdi a consciência depois de uma sequência de batimentos rápidos",alto_risco
+"Sinto uma dor no peito que se espalha para o braço e a mandíbula",alto_risco
+"Fiquei subitamente sem ar e com o coração muito acelerado",alto_risco
+"A dor torácica começou há uma hora e está ficando mais intensa",alto_risco
+"Tenho uma queimação leve depois das refeições que melhora com antiácido",baixo_risco
+"Senti dor nas costas após carregar caixas e piora quando mexo o tronco",baixo_risco
+"Estou com tosse e febre baixa há dois dias mas respiro normalmente",baixo_risco
+"Tive uma tontura leve ao me levantar rápido e logo passou",baixo_risco
+"Sinto palpitações breves depois de tomar muito café e nunca desmaiei",baixo_risco
+"Estou cansado depois de uma semana de pouco sono mas consigo trabalhar",baixo_risco
+"Tenho dor de cabeça nos momentos de estresse e pressão normal medida em casa",baixo_risco
+"Sinto uma dor localizada no ombro que piora quando levanto o braço",baixo_risco
+"A azia aparece depois de comida gordurosa e melhora quando evito esses alimentos",baixo_risco
+"Estou com coriza tosse leve e indisposição desde ontem",baixo_risco
+"Tive um incômodo passageiro nas costas depois da academia",baixo_risco
+"Sinto ansiedade antes de reuniões e o desconforto desaparece quando me acalmo",baixo_risco
+"Minha cabeça gira por poucos segundos quando levanto muito rápido",baixo_risco
+"Estou com fadiga leve depois de trabalhar até tarde por vários dias",baixo_risco
+"Tenho uma dor muscular no peito que aparece quando pressiono o local",baixo_risco
+"Senti o coração acelerar após correr mas voltou ao normal em poucos minutos",baixo_risco
+"Estou com febre baixa e tosse seca sem dor no peito ou falta de ar",baixo_risco
+"Tenho queimação no peito somente depois do jantar e consigo fazer exercícios",baixo_risco
+"Sinto dor nas costas ao girar o corpo desde que mudei os móveis",baixo_risco
+"Tive uma leve tontura depois de ficar muitas horas sem comer",baixo_risco
+"Estou nervoso e respirando rápido mas melhoro com exercícios de respiração",baixo_risco
+"Tenho dor de cabeça leve no fim do expediente e ela melhora com descanso",baixo_risco
+"Sinto cansaço após atividade física intensa mas recupero depois de dormir",baixo_risco
+"Minha tosse começou junto com resfriado e não tenho dificuldade para respirar",baixo_risco
+"Senti uma pontada rápida no peito que durou segundos e não voltou",baixo_risco
+"Tenho desconforto no ombro após dormir em posição ruim",baixo_risco
+"O coração bate mais rápido quando fico ansioso e normaliza quando me acalmo",baixo_risco
+"Estou com indisposição e febre baixa mas mantenho minhas atividades leves",baixo_risco
+"Sinto azia ocasional depois de café e não tenho sintomas durante esforço",baixo_risco
+"Tive dor muscular depois do treino e ela melhora quando fico em repouso",baixo_risco
