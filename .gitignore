@@ -22,6 +22,5 @@ Thumbs.db
 *.log
 outputs/
 
-# Materiais internos não publicáveis. O plano é a única exceção temporária.
-Referências/*
-!Referências/PLANO_APROVACAO.md
+# Materiais internos não publicáveis
+Referências/
