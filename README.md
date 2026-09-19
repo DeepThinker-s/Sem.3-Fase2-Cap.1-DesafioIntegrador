@@ -11,7 +11,7 @@ supervisionados para priorizar relatos como `baixo_risco` ou `alto_risco`.
 > Uso exclusivamente educacional. O sistema não produz diagnóstico médico e não
 > substitui avaliação por profissional de saúde.
 
-## Grupo 28
+## Grupo 8
 
 - André Pessoa Gaidzakian - RM 567877 - [LinkedIn](https://www.linkedin.com/in/andregaidzakian/)
 - Guilherme Ferreira Santos - RM 568523 - [LinkedIn](https://www.linkedin.com/in/guilherme-ferreira-santos-94619b23a/)
