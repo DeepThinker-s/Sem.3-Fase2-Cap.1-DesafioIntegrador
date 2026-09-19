@@ -3,6 +3,11 @@ param(
 )
 
 $ProjectRoot = Split-Path -Parent $PSScriptRoot
+$env:MPLCONFIGDIR = if ($env:MPLCONFIGDIR) {
+    $env:MPLCONFIGDIR
+} else {
+    Join-Path $env:TEMP 'cardioai-matplotlib'
+}
 $Python = if ($PythonExecutable) {
     $PythonExecutable
 } else {
@@ -29,7 +34,7 @@ try {
     Invoke-PythonStep @(
         '-m', 'nbconvert', '--to', 'notebook', '--execute', '--inplace',
         '--ExecutePreprocessor.timeout=180',
-        'notebooks\cardioai_classificacao_risco.ipynb'
+        'src\notebooks\cardioai_classificacao_risco.ipynb'
     )
 }
 finally {

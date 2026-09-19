@@ -14,7 +14,11 @@ RAIZ = Path(__file__).resolve().parents[1]
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Análise educacional de relatos clínicos")
-    parser.add_argument("--frases", type=Path, default=RAIZ / "docs" / "frases_sintomas.txt")
+    parser.add_argument(
+        "--frases",
+        type=Path,
+        default=RAIZ / "document" / "other" / "frases_sintomas.txt",
+    )
     parser.add_argument(
         "--ontologia", type=Path, default=RAIZ / "src" / "database" / "ontologia_sintomas.csv"
     )
