@@ -2,7 +2,7 @@
 
 ## Decisão sobre dados pessoais
 
-O Grupo 28 decidiu não associar localização, idade, sexo ou outros dados pessoais
+O Grupo 8 decidiu não associar localização, idade, sexo ou outros dados pessoais
 às imagens e relatos utilizados na CardioAI. Essa ausência é intencional: reduz
 risco de reidentificação e dificulta que o modelo use atributos demográficos como
 atalhos no lugar de sinais clínicos.
