@@ -4,7 +4,7 @@
 
 ### 1.1 Contexto e problema
 
-A CardioAI é uma solução acadêmica desenvolvida pelo Grupo 28 para a série de
+A CardioAI é uma solução acadêmica desenvolvida pelo Grupo 8 para a série de
 projetos integradores da FIAP. A Fase 1 reuniu e documentou fontes de dados
 cardiovasculares. A Fase 2 avança para uma simulação de apoio à triagem baseada
 em relatos escritos, combinando regras explicáveis e aprendizado supervisionado.
